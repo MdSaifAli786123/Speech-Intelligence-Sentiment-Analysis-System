@@ -1,4 +1,4 @@
-# Speech-to-sentiment-analysis
+# Speech Intelligence & Sentiment Analysis System
 <br>
 Project Title
 
